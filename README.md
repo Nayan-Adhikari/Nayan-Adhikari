@@ -1,6 +1,6 @@
 ###
 
-<img height="400" src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif"  />
+<img height="300" width= "1000" src="https://i.pinimg.com/originals/f4/7f/d8/f47fd896add554744b4114d964b61b41.gif"  />
 
 ###
 
