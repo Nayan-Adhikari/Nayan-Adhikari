@@ -1,3 +1,9 @@
+###
+
+<img height="150" src="[[https://i.imgflip.com/65efzo.gif]](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F6587273-Typing-Away&psig=AOvVaw3_6RIyCtggeNWbQtxHe7sj&ust=1740208087295000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCfoY2b1IsDFQAAAAAdAAAAABAJ)"  />
+
+###
+
 # Hi there! 👋 I'm Nayan Adhikari  
 
 🚀 **Full-Stack Developer | Data Scientist | Tech Enthusiast**  
